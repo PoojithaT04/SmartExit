@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "655c3e165bd035f070608706"
+  },
+  "Name": "Faculty",
+  "Employee_ID": "123456",
+  "Department": "Civil",
+  "Year": "1",
+  "Class": "Civil",
+  "Section": "A1",
+  "Personal_Mail": "Faculty@gmail.com",
+  "Official_Mail": "Faculty@college.org.in",
+  "Phone Number": 1234567894,
+  "password": "123456"
+}]
